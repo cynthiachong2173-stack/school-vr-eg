@@ -1,0 +1,42 @@
+@font-face {
+   font-family: "Roboto Condensed";
+   src: url("fonts/Roboto Condensed Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Condensed";
+   src: url("fonts/Roboto Condensed Italic.woff2") format("woff2");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Roboto Condensed";
+   src: url("fonts/Roboto Condensed Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Semi Bold";
+   src: url("fonts/Montserrat Semi Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Light";
+   src: url("fonts/Montserrat Light.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Light";
+   src: url("fonts/Montserrat Light Italic.woff2") format("woff2");
+   font-weight: normal;
+   font-style: italic;
+}
